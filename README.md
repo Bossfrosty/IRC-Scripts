@@ -28,4 +28,4 @@ Script Functions
 12. top:suffix - Generates a suffix for the rank.
 13. top:commify - Formats numbers with commas for better readability.
 
-# To activate, use the command .chanset #channel +topnick
+To activate, use the command .chanset #channel +topnick
